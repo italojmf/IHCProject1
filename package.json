@@ -11,6 +11,7 @@
     "react": "16.3.1",
     "react-native": "0.55.2",
     "react-native-easy-grid": "^0.1.17",
+    "react-native-sensors": "^2.4.2",
     "react-native-tabbar-bottom": "^1.0.4"
   },
   "devDependencies": {
