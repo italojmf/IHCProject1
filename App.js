@@ -5,7 +5,7 @@
  */
 
 import React, { Component } from 'react';
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import Tabbar from 'react-native-tabbar-bottom';
 
 import Exercicio1 from './src/views/Exercicio1';
@@ -61,17 +61,17 @@ class App extends Component {
             {
               page: 'exercicio1',
               icon: 'code',
-              iconText: 'adjust',
+              iconText: 'exercicio1',
             },
             {
               page: 'exercicio2',
               icon: 'code',
-              iconText: 'notifications',
+              iconText: 'exercicio2',
             },
             {
               page: 'exercicio3',
               icon: 'code',
-              iconText: 'person',
+              iconText: 'exercicio3',
             },
           ]}
         />
